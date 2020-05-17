@@ -1,8 +1,6 @@
 # Volumcheerio :fried_egg:
 
-**Contributers:** Andrew Cui, Grace Jiang, Carol Li, Katie Yang, Karen Yen
-
-**PM:** Adel Wu :heart:
+**Webapp Contributers:** Andrew Cui and Carol Li
 
 ### Description
 Welcome to Voluncheerio, an all-inclusive mobile- and web-application for dynamic volunteer management of non-profits.
