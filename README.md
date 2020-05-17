@@ -1,6 +1,5 @@
-# CIS 350 - Group 3 Project (20SP) :fried_egg:
+# Volumcheerio :fried_egg:
 
-### Group 3!
 **Contributers:** Andrew Cui, Grace Jiang, Carol Li, Katie Yang, Karen Yen
 
 **PM:** Adel Wu :heart:
@@ -16,7 +15,6 @@ The mobile application is for volunteer to manage and view shifts, organizations
 | Front-End      | React, Redux, CSS  |
 | Back-End       | Node, Express      |
 | Design System  | Semantic UI        |
-| Mobile         | Java               |
 | Database       | Mongo DB, AWS S3   |
 
 ### Web Deployment Instructions
