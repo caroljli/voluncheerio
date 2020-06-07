@@ -29,9 +29,6 @@ npm run dev
 
 Troubleshooting (depends on computer):
 ```javascript
-// if the above installation doesn't work
-cat requirements.txt | xargs npm install -g
-
 // if server doesn't run using the above, run the following (in order)
 npm start dev
 npm run dev
